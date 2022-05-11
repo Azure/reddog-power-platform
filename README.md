@@ -1,14 +1,23 @@
-# Project
+# Background
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This is the Power App local point-of-sale component of the [Red Dog Demo](https://github.com/Azure/reddog-code). This is an example Power Platform project showcasing the following technologies:
 
-As the maintainer of this project, please make a few updates:
+* Power Apps - Canvas App
+* Power Apps - ALM Solutions
+* Power Apps - ALM Github Actions
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This repository contains a Power Platform solution archive that can be imported into a Power Apps environment using the Power Platform editor, the [Platform CLI](https://docs.microsoft.com/en-us/power-apps/developer/data-platform/powerapps-cli), or [Github Actions](https://docs.microsoft.com/en-us/power-platform/alm/devops-github-actions).
+
+# Employee Point-of-Sale Kiosk Power App
+
+<img width="600" alt="Main Screen" src="https://user-images.githubusercontent.com/1610195/167889146-3da363fc-bec3-41a9-bda1-ab11467be608.png">
+
+<img width="600" alt="View Cart" src="https://user-images.githubusercontent.com/1610195/167888709-56c6367c-68c4-49f4-b15d-e8879c03bb7e.png">
+
+<img width="600" alt="Review Order" src="https://user-images.githubusercontent.com/1610195/167888687-5a13f5e4-1e3f-4186-be6b-dbf9ff335e87.png">
+
+<img width="600" alt="Order Submitted" src="https://user-images.githubusercontent.com/1610195/167888615-be6419c0-9ce1-4922-921b-3981600c2d6b.png">
+
 
 ## Contributing
 
