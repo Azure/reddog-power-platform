@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="new_RedDogAPIURL">
+  <displayname default="Red Dog API">
+    <label description="Red Dog API" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.2</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000000</type>
+</environmentvariabledefinition>

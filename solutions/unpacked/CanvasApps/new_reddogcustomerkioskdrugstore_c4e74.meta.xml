@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>new_reddogcustomerkioskdrugstore_c4e74</Name>
+  <AppVersion>2022-05-11T15:23:02Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.22044.32.0</CreatedByClientVersion>
+  <MinClientVersion>3.22044.32.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"20220421T004736Z-3.22041.27.0","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22044.32","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 0, 0, 1)</BackgroundColor>
+  <DisplayName>Red Dog Pharmacy Kiosk</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"83502a08-f77a-458c-b828-5c04e22f1667":{"id":"/providers/microsoft.powerapps/apis/shared_new-5forder-2dservice-20api-5f028e47fd35e3dca1","displayName":"Order-Service API","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":["RedDog.OrderService"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["getproduct","postorder"],"customApiLogicalName":"new_order-2dservice-20api","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"new_order-2dservice-20api","componenttype":372,"componenttypeplatformname":"connector"}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/new_reddogcustomerkioskdrugstore_c4e74_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/new_reddogcustomerkioskdrugstore_c4e74_DocumentUri.msapp</DocumentUri>
+</CanvasApp>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cr5bc_reddogemployeeapp_5cfd7</Name>
+  <AppVersion>2022-04-21T00:47:31Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.22041.27.0</CreatedByClientVersion>
+  <MinClientVersion>3.22041.27.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"20220321T150015Z-3.21083.28.0","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22041.27","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(220, 153, 153, 1)</BackgroundColor>
+  <DisplayName>Red Dog Employee App</DisplayName>
+  <Description></Description>
+  <CommitMessage></CommitMessage>
+  <Publisher></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"a4f6d7bf-c3de-46dc-aff2-e18b63dd1c83":{"id":"/providers/microsoft.powerapps/apis/shared_excel","displayName":"Excel","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1570/1.0.1570.2764/excel/icon.png","dataSources":["Customer","OrderItem","Order"],"dependencies":["7c2ff165-8434-458e-9f6e-4845d7d076f6"],"dependents":[],"parameterHints":{"7c2ff165-8434-458e-9f6e-4845d7d076f6":{"value":"fileSource"}},"parameterHintsV2":{"fileSource":{"value":"7c2ff165-8434-458e-9f6e-4845d7d076f6"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"b!xl3bS_reb0eMpcUaxvGB0a_w2Pklmz5DptQhX7E0FsBX6kkw9bftQpz5fI2bp4pI.01GF4A3VDURLYQPYCHJJCJERH3H3B2QWJQ":{"dataSources":{"Customer":{"tableName":"Customer"},"OrderItem":{"tableName":"OrderItem"},"Order":{"tableName":"Order"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read"]},"7c2ff165-8434-458e-9f6e-4845d7d076f6":{"id":"/providers/microsoft.powerapps/apis/shared_onedriveforbusiness","displayName":"OneDrive for Business","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1546/1.0.1546.2665/onedriveforbusiness/icon.png","dataSources":[],"dependencies":[],"dependents":["a4f6d7bf-c3de-46dc-aff2-e18b63dd1c83"],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/cr5bc_reddogemployeeapp_5cfd7_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cr5bc_reddogemployeeapp_5cfd7_DocumentUri.msapp</DocumentUri>
+</CanvasApp>

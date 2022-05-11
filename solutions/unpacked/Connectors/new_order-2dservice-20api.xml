@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>32e107fd-8cba-4923-9b78-721d3376b7c5</connectorid>
+  <description></description>
+  <displayname>Order-Service API</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>new_order-2dservice-20api</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/new_order-2dservice-20api_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/new_order-2dservice-20api_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/new_order-2dservice-20api_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/new_order-2dservice-20api_iconblob.Png</iconblob>
+</Connector>
